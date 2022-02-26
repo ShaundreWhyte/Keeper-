@@ -1,8 +1,9 @@
 # Keeper-App
 Keeper Application created to keep users daily jounry or  deepes secrets.This keeper application is buildt using React js,React Hooks 
 HTML , CSS. 
-Have fun and play round with this App
-website(https://b6t9rp.csb.app/)
+Have fun and play round with this App.
+
+website https://b6t9rp.csb.app/
 
 
 
